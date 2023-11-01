@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+   background-image: url(https://img.freepik.com/vetores-premium/estilo-desenhado-a-mao-de-feijao-e-xicara-de-cafe-ilustracao-vetorial_514781-1128.jpg);
+   
+    
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+ol {
+    margin-left: 10%;
+}
+
+img {
+    height: 15%;
+    width: 15%;
+    margin-left: 20%;
+    margin-top: 5%;
+
+}
+
+
+p {
+    color: rgb(255, 255, 255);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    font-size: 20px;
+}
+table{
+    margin-left: 42%;
+    margin-top: 5%;
+    color: white;
+    margin-bottom:5%;
+}
+footer{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
